@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://uday1201.github.io/blog/sitemap.xml 
